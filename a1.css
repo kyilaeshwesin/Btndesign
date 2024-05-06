@@ -1,0 +1,161 @@
+.container
+{
+    
+    
+    margin: 200px;
+    
+
+
+}
+.btn1
+{
+    
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 30px;
+    
+ 
+}
+button{
+    width: auto;
+    height: 45px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    border-radius: 10px;
+    border-color: beige;
+    box-shadow: none;
+    border-width: 1px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+    
+
+
+.b1
+{
+    background-color:rgb(66,197,233);
+}
+.b2
+{
+    background-color: gray ;
+}
+    
+.b3
+{
+    background-color:rgb(69, 161, 69)
+}
+.b4
+{
+    background-color:rgb(73, 73, 187) ;
+}
+.b5
+{
+
+    background-color: rgb(249, 167, 16);
+}
+.b6
+{
+    background-color: rgb(198, 35, 35);
+}
+.b7
+{
+    background-color: rgb(66, 197, 233);
+    border-radius: 30px;
+}
+.b8
+{
+    background-color: rgb(66, 197, 233);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.btn2
+{
+    margin-top: 100px;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 30px;
+    
+}
+.btn2 button{
+    border-width: 1px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.icon
+{
+    background-color:rgb(66, 197, 233) ;
+    color: white;
+    border-radius: 10px;
+}
+.dash{
+    background-color: white;
+    color:rgb(66, 197, 233) ;
+    border:dotted;
+}
+.link{
+    color:rgb(66, 197, 233);
+    border: none;
+}
+.click{
+    background-color: rgb(66, 197, 233);
+    color: white;
+    border-radius: 10px;
+}
+.jelly
+{
+    background-color: rgb(66, 197, 233);
+    color: white;
+    border-radius: 10px;
+}
+.fill{
+    background-color: white;
+    color:rgb(66, 197, 233);
+}
+.pulse
+{
+    background-color: rgb(66, 197, 233);
+    color: white;
+    border-radius: 10px;
+}
+.open{
+    background-color: white;
+    color:rgb(66, 197, 233);
+    border-radius: 10px;
+}
+.btn3{
+    margin-top: 30px;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 10px;
+}
+.btn3 button{
+    border-width: 1px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.slide
+{
+    background-color: white;
+    color:rgb(66, 197, 233);
+}
+.through{
+    background-color: white;
+    color:rgb(66, 197, 233);
+}
+.flip{
+    background-color: rgb(66, 197, 233);
+    color: white;
+    border-radius: 10px;
+}
+.marquee{
+    background-color: rgb(66, 197, 233);
+    color: white;
+    border-radius: 30px;
+}
+.cross{
+    background-color: white;
+    color:rgb(66, 197, 233);
+}
+
